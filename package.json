@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-path-classes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Add path data to gitbook pages.",
   "main": "index.js",
   "engines": {
